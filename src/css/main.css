@@ -1,5 +1,5 @@
-@import "normalaiz.css";
-@import "/_settings.css";
-@import "/_header.css";
-@import "/_about.css";
-@import "/_media.css";
+@import url(normalaiz.css);
+@import url(/_settings.css);
+@import url(/_header.css);
+@import url(/_about.css);
+@import url(/_media.css);
